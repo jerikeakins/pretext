@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="section-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>My First Section</title>
+  <title>Getting Warmed Up and in the Right Mindset</title>
   <introduction>
     <p>Some words</p>
   </introduction>
@@ -10,7 +10,7 @@
     <p>foo</p>
     <figure>
       <caption>A frog</caption>
-      <image source="frog.jpg" width="50%">
+      <image source="textqrcode.jpg" width="50%">
         <description>A nice-looking frog with a longish description.</description>
       </image>
     </figure>
